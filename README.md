@@ -5,6 +5,10 @@ Topics Covered:
 
 1.Introduction to Numpy
 
-2.Introduction to Pandas (Upcoming)
+2.Introduction to Pandas 
 
-3.Introduction to Matplot
+3.Introduction to Matplot (Upcoming)
+
+
+
+## Author: Dipesh Poudel
